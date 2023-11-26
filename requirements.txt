@@ -1,0 +1,5 @@
+langchain
+pyPDF
+streamlit
+streamlit-extras
+python-dotenv
