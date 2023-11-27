@@ -1,5 +1,8 @@
 langchain
-pyPDF
+pypdf2
 streamlit
 streamlit-extras
 python-dotenv
+faiss-cpu
+openai
+tiktoken
